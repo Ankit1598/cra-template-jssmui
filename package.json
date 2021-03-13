@@ -1,0 +1,22 @@
+{
+	"name": "cra-template-jssmui",
+	"version": "1.0.1",
+	"keywords": [
+		"react",
+		"create-react-app",
+		"template"
+	],
+	"description": "The base template for Create React App with JSS, Router & Material-UI.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ankit1598/cra-template-jssmui.git"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=10"
+	},
+	"files": [
+		"template",
+		"template.json"
+	]
+}
